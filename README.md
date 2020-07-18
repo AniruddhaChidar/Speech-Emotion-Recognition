@@ -17,6 +17,6 @@ Fitting the model: Now we are going to train the data set using the model we cre
 We achieved the accuracy of upto 63% which is quite good considering the vagueness of sound data in general.
 
 <p align="center">
-  <img src="./model.png" width="350" title="hover text">
+  <img src="./model.png" width="550" title="hover text">
 <!--   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text"> -->
 </p>
